@@ -17,10 +17,10 @@
 
 ## 實體線路圖
 
-![](https://github.com/michael54856/Drinks-Vending-Machine/blob/main/Image/WireImage.jpg)
+![](https://github.com/michael54856/Drinks-Vending-Machine/blob/main/Image/WireImage.png)
 
 ## 實體運作圖
-![](https://github.com/michael54856/Drinks-Vending-Machine/blob/main/Image/Operation.jpg)
+![](https://github.com/michael54856/Drinks-Vending-Machine/blob/main/Image/Operation.png)
 
 
 
