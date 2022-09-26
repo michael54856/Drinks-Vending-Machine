@@ -22,5 +22,8 @@
 ## 實體運作圖
 ![](https://github.com/michael54856/Drinks-Vending-Machine/blob/main/Image/Operation.jpg)
 
+## 裝置正面
+![](https://github.com/michael54856/Drinks-Vending-Machine/blob/main/Image/front.png)
+
 
 
